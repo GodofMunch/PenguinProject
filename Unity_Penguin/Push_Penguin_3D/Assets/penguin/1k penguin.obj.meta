@@ -1,22 +1,17 @@
 fileFormatVersion: 2
-guid: 5a6e01976b04ecb4e9d31be845b02a8b
-timeCreated: 1505906448
+guid: c83d17f74567ac14bbb071debf2ff746
+timeCreated: 1506080530
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: peng_body
-    100002: peng_eye
-    100004: //RootNode
-    400000: peng_body
-    400002: peng_eye
-    400004: //RootNode
-    2300000: peng_body
-    2300002: peng_eye
-    3300000: peng_body
-    3300002: peng_eye
-    4300000: peng_body
-    4300002: peng_eye
+    100000: //RootNode
+    100002: default
+    400000: //RootNode
+    400002: default
+    2300000: default
+    3300000: default
+    4300000: default
   materials:
     importMaterials: 1
     materialName: 0
